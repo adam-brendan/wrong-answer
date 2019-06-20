@@ -1,0 +1,19 @@
+{
+  "name": "wrong-answer",
+  "version": "0.1.0",
+  "description": "Will return the wrong answer for a simple equation (e.g. 1 + 1 = 4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-brendan/wrong-answer.git"
+  },
+  "author": "Adam Craveiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam-brendan/wrong-answer/issues"
+  },
+  "homepage": "https://github.com/adam-brendan/wrong-answer#readme"
+}
