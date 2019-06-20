@@ -1,6 +1,6 @@
 {
   "name": "wrong-answer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Will return the wrong answer for a simple equation (e.g. 1 + 1 = 4)",
   "main": "index.js",
   "scripts": {
