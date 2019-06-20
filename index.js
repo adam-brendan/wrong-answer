@@ -1,4 +1,4 @@
-export const wrongAnswer = (num1, operator, num2) => {
+const wrongAnswer = (num1, operator, num2) => {
     let answer = 0;
     let wrongAnswer = Math.floor(Math.random() * Math.floor(1000));
     if (operator === "+") {
@@ -16,3 +16,5 @@ export const wrongAnswer = (num1, operator, num2) => {
     }
     return wrongAnswer;
 }
+
+export default wrongAnswer;
