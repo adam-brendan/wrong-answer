@@ -4,4 +4,8 @@ Tired of getting the right answer all the time for basic arithmetic? This is the
 
 ## example
 
-console.log(wrongAnswer(4, "+", 4)) will return a number that is not 8.
+```
+let result = wrongAnswer(4, "+", 4)
+> result // something that's not 8
+```
+
